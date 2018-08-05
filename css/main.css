@@ -182,6 +182,9 @@ tr:nth-child(even) {
     background-color: #f2f2f2;
 }
 
+.lastdiv {
+    margin-bottom: 150px;
+}
 /*.w3-container w3-panel {
 
 }
